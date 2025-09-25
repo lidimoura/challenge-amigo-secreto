@@ -54,7 +54,7 @@ challenge-amigo-secreto/
 ├─ index.html
 ├─ style.css
 ├─ app.js
-├─ imagens/
+├─ assets/
 └─ README.md
 
 
@@ -66,5 +66,5 @@ Projeto pronto para ser publicado no GitHub Pages ou Vercel, permitindo que qual
 
 GitHub: [lidimoura](https://github.com/lidimoura)
 
-**Este projeto faz parte da primeira etapa do programa ONE.**
+
 
