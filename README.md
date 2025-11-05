@@ -1,70 +1,86 @@
-<h1 align = "center"> Challenge Amigo Secreto </h1>
+# Challenge Amigo Secreto
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Stack-JavaScript-blue?style=for-the-badge&logo=javascript" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Stack-HTML5-blue?style=for-the-badge&logo=html5" alt="HTML5">
+    <img src="https://img.shields.io/badge/Stack-CSS3-blue?style=for-the-badge&logo=css3" alt="CSS3">
+  </p>
+</div>
 
----
-
-## Descrição do projeto
-O propósito deste desafio é praticar conceitos fundamentais de **lógica de programação**, como variáveis, funções, condicionais e arrays.
-
-O projeto permite que os usuários:
-- Inserir nomes de amigos em uma lista.
-- Realizar um sorteio aleatório para determinar quem é o amigo secreto.
-- Visualizar o resultado diretamente na página.
-
-Este é o meu **primeiro projeto oficial**, desenvolvido após a primeira etapa dos cursos de desenvolvimento pessoal e lógica de programação do programa ONE.
+> **[➡️ Acesse a versão funcional (deploy) deste projeto aqui](https://challenge-amigo-secreto-nine-tau.vercel.app/)**
 
 ---
 
-## Tecnologias utilizadas
-- HTML  
-- CSS  
-- JavaScript  
+## 🎯 Sobre o Projeto
 
----
+Este é meu **primeiro projeto web oficial**, desenvolvido como parte do **Challenge da primeira etapa do programa ONE da Alura com Oracle**. O projeto foi criado para praticar conceitos fundamentais de lógica de programação, incluindo manipulação de arrays, funções e DOM.
 
-## Funcionalidades
-1. **Adicionar amigos**  
-   - Usuário insere o nome no campo de texto.  
-   - Validação para garantir que o campo não esteja vazio.  
-   - Nome adicionado ao array `amigos` e lista atualizada no HTML.
+## 🚀 Funcionalidades
 
-2. **Atualizar lista de amigos**  
-   - Cada amigo é exibido em um `<li>` dentro da lista.  
-   - Lista limpa antes de atualizar para evitar duplicação.
+- **Gerenciar lista de amigos**: Adicionar nomes com validação de campo vazio
+- **Visualização dinâmica**: Lista atualizada em tempo real no DOM
+- **Sorteio aleatório**: Sistema de sorteio justo usando Math.random()
+- **Interface responsiva**: Design limpo e intuitivo
+- **Deploy ativo**: Projeto hospedado e funcional no Vercel
 
-3. **Sortear amigo secreto**  
-   - Validação para verificar se há amigos no array.  
-   - Sorteio aleatório usando `Math.random()` e `Math.floor()`.  
-   - Resultado exibido no elemento de resultado da página.
+## 🛠️ Tecnologias Utilizadas
 
----
+- **HTML5** - Estrutura semântica da aplicação
+- **CSS3** - Estilização e layout responsivo  
+- **JavaScript (Vanilla)** - Lógica de programação e manipulação do DOM
 
-## Como executar o projeto
-1. Clone o repositório:  
+## 📱 Como Usar
+
+1. **Digite o nome** de um participante no campo de texto
+2. **Clique em "Adicionar"** para incluir na lista
+3. **Repita** até que todos os participantes estejam adicionados
+4. **Clique em "Sortear amigo"** para ver o resultado do sorteio
+
+## 🔧 Como Executar Localmente
+
+```bash
+# Clone o repositório
 git clone https://github.com/lidimoura/challenge-amigo-secreto.git
-2. Abra o arquivo index.html no navegador.
-3. Adicione nomes de amigos, clique em “Sortear” e veja o resultado do amigo secreto.
 
+# Navegue até a pasta do projeto
+cd challenge-amigo-secreto
 
-## Estrutura do projeto
+# Abra o arquivo index.html no seu navegador
+# Ou use um servidor local como Live Server (VS Code)
+```
+
+## 📂 Estrutura do Projeto
+
+```
 challenge-amigo-secreto/
-├─ index.html
-├─ style.css
-├─ app.js
-├─ assets/
-└─ README.md
+├── index.html          # Página principal
+├── style.css           # Estilos da aplicação
+├── app.js              # Lógica JavaScript
+├── assets/             # Recursos (imagens, etc.)
+└── README.md           # Documentação
+```
 
+## 💡 Principais Aprendizados
 
-## Publicação
+- **Manipulação de Arrays**: Implementação de lógica de embaralhamento
+- **Validação de Dados**: Verificação de campos obrigatórios
+- **Manipulação do DOM**: Atualização dinâmica de elementos HTML
+- **Estruturação de Código**: Organização clara entre HTML, CSS e JavaScript
+- **Deploy e Versionamento**: Primeira experiência com Vercel e GitHub
 
-Projeto pronto para ser publicado no GitHub Pages ou Vercel, permitindo que qualquer pessoa acesse a página diretamente.
+## 👩‍💻 Sobre a Desenvolvedora
 
-## Contatos / Sobre mim:
+Este projeto faz parte do meu portfólio como **Criadora de Soluções de IA** e **fundadora do Encontro d'água hub**. Atualmente em transição de carreira, estudando no programa ONE da Alura com foco em Data Science.
 
-GitHub: [lidimoura](https://github.com/lidimoura)
+---
 
+### 📞 Contatos
 
+- **GitHub**: [@lidimoura](https://github.com/lidimoura)
+- **LinkedIn**: [linkedin.com/in/lidimoura](https://linkedin.com/in/lidimoura)
+- **Encontro d'água hub**: Em desenvolvimento 🌀
 
+---
+
+*Projeto desenvolvido com 💙 durante o programa ONE - Alura + Oracle
