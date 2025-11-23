@@ -12,11 +12,11 @@
 
 ---
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 
 Este é meu **primeiro projeto web oficial**, desenvolvido como parte do **Challenge da primeira etapa do programa ONE da Alura com Oracle**. O projeto foi criado para praticar conceitos fundamentais de lógica de programação, incluindo manipulação de arrays, funções e DOM.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - **Gerenciar lista de amigos**: Adicionar nomes com validação de campo vazio
 - **Visualização dinâmica**: Lista atualizada em tempo real no DOM
@@ -24,20 +24,20 @@ Este é meu **primeiro projeto web oficial**, desenvolvido como parte do **Chall
 - **Interface responsiva**: Design limpo e intuitivo
 - **Deploy ativo**: Projeto hospedado e funcional no Vercel
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** - Estrutura semântica da aplicação
 - **CSS3** - Estilização e layout responsivo  
 - **JavaScript (Vanilla)** - Lógica de programação e manipulação do DOM
 
-## 📱 Como Usar
+## Como Usar
 
 1. **Digite o nome** de um participante no campo de texto
 2. **Clique em "Adicionar"** para incluir na lista
 3. **Repita** até que todos os participantes estejam adicionados
 4. **Clique em "Sortear amigo"** para ver o resultado do sorteio
 
-## 🔧 Como Executar Localmente
+## Como Executar Localmente
 
 ```bash
 # Clone o repositório
@@ -50,7 +50,7 @@ cd challenge-amigo-secreto
 # Ou use um servidor local como Live Server (VS Code)
 ```
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 challenge-amigo-secreto/
@@ -61,7 +61,7 @@ challenge-amigo-secreto/
 └── README.md           # Documentação
 ```
 
-## 💡 Principais Aprendizados
+## Principais Aprendizados
 
 - **Manipulação de Arrays**: Implementação de lógica de embaralhamento
 - **Validação de Dados**: Verificação de campos obrigatórios
@@ -69,13 +69,13 @@ challenge-amigo-secreto/
 - **Estruturação de Código**: Organização clara entre HTML, CSS e JavaScript
 - **Deploy e Versionamento**: Primeira experiência com Vercel e GitHub
 
-## 👩‍💻 Sobre a Desenvolvedora
+## Sobre a Desenvolvedora
 
 Este projeto faz parte do meu portfólio como **Criadora de Soluções de IA** e **fundadora do Encontro d'água hub**. Atualmente em transição de carreira, estudando no programa ONE da Alura com foco em Data Science.
 
 ---
 
-### 📞 Contatos
+### Contatos
 
 - **GitHub**: [@lidimoura](https://github.com/lidimoura)
 - **LinkedIn**: [linkedin.com/in/lidimoura](https://linkedin.com/in/lidimoura)
